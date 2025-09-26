@@ -1,0 +1,32 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.questions{
+  display: inline;
+}
+button{
+  color: white;
+  background-color:rgb(21, 20, 20) ;
+  border: none;
+  cursor: pointer;
+  width: 50px;
+}
+.q-box{
+  background-color: rgb(21, 20, 20);
+  color: white;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 10px;
+  align-items: center;
+}
+.q-1-style{
+  border-color:rgb(21, 20, 20) ;
+  color: rgb(21, 20, 20);
+  border-style: solid;
+  border-radius: 10px;
+  padding: 10px;
+}
